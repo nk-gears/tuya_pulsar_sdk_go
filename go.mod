@@ -1,6 +1,6 @@
 module github.com/nk-gears/tuya_pulsar_sdk_go
 
-go 1.12
+go 1.14
 
 require (
 	github.com/TuyaInc/pulsar-client-go v0.0.0-20190909014409-dc38b68cfb65
