@@ -17,9 +17,9 @@ import (
 	"encoding/json"
 	"time"
 
-	pulsar "github.com/TuyaInc/tuya_pulsar_sdk_go"
-	"github.com/TuyaInc/tuya_pulsar_sdk_go/pkg/tylog"
-	"github.com/TuyaInc/tuya_pulsar_sdk_go/pkg/tyutils"
+	pulsar "github.com/nk-gears/tuya_pulsar_sdk_go"
+	"github.com/nk-gears/tuya_pulsar_sdk_go/pkg/tylog"
+	"github.com/nk-gears/tuya_pulsar_sdk_go/pkg/tyutils"
 	"github.com/sirupsen/logrus"
 )
 

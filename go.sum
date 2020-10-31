@@ -2,8 +2,8 @@ github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/TuyaInc/pulsar-client-go v0.0.0-20190909014409-dc38b68cfb65 h1:ucifzYVdm7lXIYEGKovEW3tWZC3fm3plmZ6nFS8ZqDI=
 github.com/TuyaInc/pulsar-client-go v0.0.0-20190909014409-dc38b68cfb65/go.mod h1:Mn7a5ZF+OIvo3duPSyqIpUECMwsB9czQVlCecaIIWmk=
-github.com/TuyaInc/tuya_pulsar_sdk_go v0.0.0-20200814070028-891753d9afd7 h1:guJjzGVTsLftCo1tSHc7RZ3uz4eUX3/l+dEvSOqzOeg=
-github.com/TuyaInc/tuya_pulsar_sdk_go v0.0.0-20200814070028-891753d9afd7/go.mod h1:0F+8crqG5+CmKOvGD1RrL4P7qMYP8MuPW/6y6cuqlwE=
+github.com/nk-gears/tuya_pulsar_sdk_go v0.0.0-20200814070028-891753d9afd7 h1:guJjzGVTsLftCo1tSHc7RZ3uz4eUX3/l+dEvSOqzOeg=
+github.com/nk-gears/tuya_pulsar_sdk_go v0.0.0-20200814070028-891753d9afd7/go.mod h1:0F+8crqG5+CmKOvGD1RrL4P7qMYP8MuPW/6y6cuqlwE=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
