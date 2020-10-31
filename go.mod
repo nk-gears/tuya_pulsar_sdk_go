@@ -1,4 +1,4 @@
-module github.com/TuyaInc/tuya_pulsar_sdk_go
+module github.com/nk-gears/tuya_pulsar_sdk_go
 
 go 1.12
 
